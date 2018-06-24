@@ -28,12 +28,14 @@
 
         {{ body }}
 
-        {% for post in site.posts %}
-        	<article>
-        		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
-        		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
-        		{{ post.teaser }}        
-        	</article>
+		{% for post in site.posts %}
+			<div style="float: left;width: 33.333333%;">
+				<article>
+					<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+					<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
+					{{ post.teaser }}        
+				</article>
+			</div>
         {% endfor %}
 
 
