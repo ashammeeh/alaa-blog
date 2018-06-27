@@ -1,6 +1,4 @@
---
-title: The Quran as a Linguistic Miracle
---
+
 
 <p>As I wear the headscarf, a discussion that is brought up with me often is why I believe in Islam or general questions about my religion, and what purpose it serves me. Most of these conversations, coincidentally, are initiated by non-religious or atheist peers, and the comment I get most often is that they find it hard to believe scriptures are real and credible. How do you know they haven't been messed with? or A divine energy is seemingly unlikely given that there isn't proof of it are things I hear often. While I understand why it is difficult to wrap one's head around, to me, there is absolute proof of a divine energy.  While there are numerous reasons why I believe in Islam, I'd like to emphasize the linguistic aspect of the Quran.</p>
 <p>The Quran was revealed through our last prophet, Muhammad. He received the revelation in bits and pieces orally, and it was not written down until he had passed away. Between the time of revelation and actually writing it, the Prophet relayed the verses he learned from God to his followers, and they all memorized it. Upon writing it down, they wrote it exactly as they memorized - with no edits or changes made. It has taken thousands of years to understand the depth of this book, and there has yet to be a full analysis on it, as there's always something new that is found.</p>

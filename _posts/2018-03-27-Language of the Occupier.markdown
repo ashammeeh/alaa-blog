@@ -1,0 +1,6 @@
+---
+title: Language of the Occupiet
+---
+
+The Article <href="https://www.aljazeera.com/indepth/features/2013/02/201321191711906450.html
+"> here </a> I feel as though this depicts the attitude towards the language of the colonizer, but in the perspective of optimism. In this situation, the students are seemingly eager to learn Hebrew, as they associate that language with opportunity. While this may be true, the focus here is on the responses they have towards the language of the colonizer. For the students that remain, the ideology is pushed that Hebrew is a language that will bring opportunity, power, and equality within their own land. Thus, the learning of Hebrew is pushed, alongside Israeli curriculum. As this is happening in current day, as observers, it is easy to conclude this push for Hebrew to become more popular is due to the fact this must be successful in the process of the colonization of Palestine. And based on the sources given, it is not difficult to find the correlation between the loss of language, then culture, and finally, land. The Native American colonization will be set as evidence throughout history how language plays an important role in the success of that colonization. Colonizers knew then that when the coming generations lost their language, they would forget their culture, and thus lose connection with their land. 

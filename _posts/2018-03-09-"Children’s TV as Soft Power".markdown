@@ -1,6 +1,6 @@
---
+----
 Title: "Can Big Bird Fight Terrorism? Children’s TV as Soft Power"
---
+---
 
 <p>I went to this talk Tuesday evening on a discussion about international education. The speaker, a Professor in SIS conducted a research about Sesame Square, a Nigerian version of Sesame Street, and how it could help children overcome recruitment of the terrorist group Boko Haram and emotional trauma that they face with this group being so prominent in Northwest Nigeria. </p>
 <p>The research was interesting because I felt as though it recognized how television can change the perspectives of children - and it showed how they could take advantage of that by bettering the youth. 
