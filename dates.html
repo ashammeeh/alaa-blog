@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+	body {font-family: 'Rajdhani',san-serif;}
+
+	/* Style the tab */
+	.tab {
+	    overflow: hidden;
+	    border: 1px solid TRANSPARENT;
+	    background-color: #f1f1f1;
+	}
+
+	/* Style the buttons inside the tab */
+	.tab a {
+	    background-color: inherit;
+	    float: left;
+	    border: none;
+	    outline: none;
+	    cursor: pointer;
+	    padding: 14px 16px;
+	    transition: 0.3s;
+	    font-size: 17px;
+	    
+	    text-decoration: none;
+	}
+
+	/* Change background color of buttons on hover */
+	.tab a:hover {
+	    background-color: #696969;
+	}
+
+	/* Create an active/current tablink class */
+	.tab a.active {
+	    background-color: #00C8BB;
+	}
+
+	/* Style the tab content */
+	.tabcontent {
+	    padding: 6px 12px;
+	    border: 0px solid TRANSPARENT;
+	    border-top: none;
+	}
+	</style>
+
+<head>
+	
+	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Load styles -->
+	<!-- For production, combine all of the stylesheets -->
+	<link rel="stylesheet" href="css/sitewide.css">
+	
+	<!-- pull in webfonts -->
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css?family=Oswald:400,500|Rajdhani:500|Raleway:300i,400" rel="stylesheet">
+	<!-- Tab links -->
+	<div class="tab">
+		<a class="tablinks" href="index.html">HOME</a>
+	  <a class="tablinks" href="tickets.html">TICKETS</a>
+	  <a class="tablinks" href="dates.html">DATES</a>
+	  <a class="tablinks" href="featured.html">FEATURED</a>
+	</div>
+
+	
+	<script type="text/javascript" src="addclasskillclass.js"></script>
+	<script type="text/javascript" src="attachevent.js"></script>
+	<script type="text/javascript" src="addcss.js"></script>
+	<script type="text/javascript" src="tabtastic.js"></script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>D-N̶-C</title>
+	<meta name="description" content="">
+	
+
+
+
+
+</head>
+<body>
+	<div class="container">
+	<!-- Page content goes inside the container -->
+	<!-- In general, you should have only one container per page. -->
+
+	<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+<div>
+	<h1><center></title>JOIN US FOR OUR FIFTH ANNUAL EVENT!</center></h1>
+	<div style="background: url('img/DN.jpg')center top;
+        margin: 0 auto;
+        width:800px;
+        height:300px;
+        border:1px solid black;
+        font-size:14px; 
+        color:black; 
+        font-weight:bold; 
+        font-style:italic;
+        background-size: cover; 
+    	background-repeat: no-repeat;"></div>
+
+<div class="container">
+
+ 		<hr style="height:3px;border:none;color:#FCCB0A;background-color:#FCCB0A;"/> <br>
+ 		
+
+
+
+		<br><hr style="height:3px;border:none;color:#FCCB0A;background-color:#FCCB0A;"/> 
+
+	 		 		<!-- Tab content -->
+		<div class="tabcontent">
+	  	<h2>
+	  	<p>DATE INFORMATION IS HERE!</p> 
+	  	<P> AUGUST 24-26, 2018 </P></h2>
+		</div>
+</div>
+	</div><!-- end container -->
+
+	
+</body>
+</html>
