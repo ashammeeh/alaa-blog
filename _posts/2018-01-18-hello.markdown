@@ -1,10 +1,11 @@
 ---
-title: "Hello world! I am a post."
+title: "Language Lost Between Arab-Americanism"
 description: "This text shows up in search engine previews"
 ---
 
 This is a post. Rename the file and replace it with a real post.
 
+# header 1
 <h3>Hed Level Three</h3>
 
 Paragraph one is here! It's a quite *excited* paragraph. It wants to be paragraphing.
