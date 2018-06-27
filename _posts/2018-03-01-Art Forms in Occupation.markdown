@@ -1,5 +1,6 @@
-
-
+---
+title: "Art Forms in Occupation"
+---
 
 <p>The Nakba, or "The Catastrophe" is the Palestinian exodus that occurred in 1948. During this time, there was an exile of at least 700,000 Palestinians. What followed after was a chaotic time of war, bloodshed, and an event that Palestinians were trying to avoid: The Israeli Declaration of Independence. </p>
 <p>If pre-declaration was chaotic, the events that soon followed made circumstances un-livable for Palestinians. In moments of frustration, art was born. With the occupation, there was no way to relay how people were being treated, or how they felt. Letters that were sent out and into Palestine were monitored and pre-read before given to the rightful owner. Anything that was deemed politically incorrect or even political was blacked out. </p>

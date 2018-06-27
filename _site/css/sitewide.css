@@ -50,11 +50,11 @@ body {
 }
 
 .clearfix {
-	overflow: auto;
-}
+		overflow: auto;
+	}
 
-.clearfix::after {
-	content: "";
-	clear: both;
-	display: table;
-}
+	.clearfix::after {
+		content: "";
+		clear: both;
+		display: table;
+	}
