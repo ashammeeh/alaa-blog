@@ -1,6 +1,6 @@
 
 # Site settings
-title: Your awesome title
+title: BRAIN DUMP
 description: A starter site
 baseurl: "/alaa-blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "https://ashammeeh.github.io/alaa-blog/" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
