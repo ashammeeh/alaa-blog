@@ -1,0 +1,11 @@
+--
+title: "Art Forms in Occupation"
+--
+
+<p>The Nakba, or "The Catastrophe" is the Palestinian exodus that occurred in 1948. During this time, there was an exile of at least 700,000 Palestinians. What followed after was a chaotic time of war, bloodshed, and an event that Palestinians were trying to avoid: The Israeli Declaration of Independence. </p>
+<p>If pre-declaration was chaotic, the events that soon followed made circumstances un-livable for Palestinians. In moments of frustration, art was born. With the occupation, there was no way to relay how people were being treated, or how they felt. Letters that were sent out and into Palestine were monitored and pre-read before given to the rightful owner. Anything that was deemed politically incorrect or even political was blacked out. </p>
+<p>It was no surprise different forms of art became popular during this time. </p>
+<p>Mahmoud Darwish, a much-loved Palestinian poet, was exiled during this time. Since there was a census soon after, those who were not present at this point lost their Palestinian nationality - in Israeli law - and were now international refugees. He still wrote about his love for his country despite his exile. Soon enough, he was considered a "resistance poet," a bigger enemy to Israel than a fighter. </p>
+<p>By the 1960s, Darwish was imprisoned when he was traveling - on his own land - without a permit from Israel. This is when his poem, "Identity Card" was turned into a song. This was the start of a trend. A famous Lebanese singer, Marcel Khalife, turned Darwish's famous poems into music, only making them more popular in the face of the occupier. 
+Sometimes, the best form of resistance is art. We see this repeatedly in Palestinian history, where art was at its peak during the most difficult of times. If it was not so powerful, poets would not be exiled, imprisoned, or worse, killed. 
+The language of poetry is often analyzed, but I feel as though the context is not understood enough. A simple set of lines and stanzas could mean so much more than when read. In times of frustration, communication in the form of language could be repressed, thus creating a new form of communication. These results are just as significant, if not arguably more significant, than the language itself. </p>
