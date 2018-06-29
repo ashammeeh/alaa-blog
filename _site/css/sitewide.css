@@ -27,10 +27,11 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #222;
+	color:grey;
+	background-image: url("background/img")
 }
 
 /*	Generally, you will only want one container element in
