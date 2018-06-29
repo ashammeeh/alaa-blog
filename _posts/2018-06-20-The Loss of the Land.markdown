@@ -1,7 +1,8 @@
 ---
 title: The Loss of the Land
 ---
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+<%= favicon_tag 'img/favicon.ico' %>
+
 
 <p>Imagine learning what your country of origin feels like. Imagine the excitement of finding a home, your home, in a new, but familiar place, a land that your grandparents and great grandparents worked on. It is as though the sweat dripped into hard work was tangible to you by smell, or look, or touch. You could feel your identity lie between these rocks and mountains. </p>
 <p>Imagine learning what your country looks like, but only more than a decade after living in it. After learning the routes of the main city, and realizing a crosswalk is virtually useless, - because after all, where there is a will there's a way with arabs - and learning the language and how to haggle prices, as though you needed more weight to balance kilos upon kilos of fresh vegetables from the farmer’s market, imagine realizing you have lived it all wrong. Imagine learning what it looks, sounds, and feels like, only to realize that you have lived it all wrong. Or perhaps not wrong, just not quite right. </p>
