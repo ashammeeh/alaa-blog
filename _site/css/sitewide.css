@@ -27,11 +27,11 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
+	color: black;
 	line-height: 1.5em;
-	color:grey;
-	background-image: url("background/img")
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2016_15B_%2824413518123%29.jpg/848px-2016_15B_%2824413518123%29.jpg")
 }
 
 /*	Generally, you will only want one container element in
@@ -48,13 +48,15 @@ body {
 	max-width: 1200px;
 	padding: 2em;
 	border: 5px solid #eee;
+	text-align: center;
+	background-color: grey;
 }
 
 .clearfix {
 		overflow: auto;
 	}
 
-	.clearfix::after {
+.clearfix::after {
 		content: "";
 		clear: both;
 		display: table;
