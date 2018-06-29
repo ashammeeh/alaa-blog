@@ -1,7 +1,9 @@
 ---
 title: The Loss of the Land
----
+
 <%= favicon_tag 'img/favicon.ico' %>
+
+---
 
 
 <p>Imagine learning what your country of origin feels like. Imagine the excitement of finding a home, your home, in a new, but familiar place, a land that your grandparents and great grandparents worked on. It is as though the sweat dripped into hard work was tangible to you by smell, or look, or touch. You could feel your identity lie between these rocks and mountains. </p>
