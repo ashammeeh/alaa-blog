@@ -46,9 +46,9 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 5px solid #eee;
+	background-color: #FFF;
 	text-align: center;
-	background-color: white;
+	
 }
 
 .clearfix {
