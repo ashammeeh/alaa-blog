@@ -31,7 +31,10 @@ body {
 	font-size: 16px;
 	color: grey;
 	line-height: 1.5em;
-	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2016_15B_%2824413518123%29.jpg/848px-2016_15B_%2824413518123%29.jpg") stretch;}
+	background-image: url("img/background.jpg")
+		}
+		
+		
 
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 
