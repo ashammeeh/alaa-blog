@@ -1,22 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-		<link rel='shortcut icon' type='image/x-icon' href='img/favicon.ico'/>
-
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{{ site.title }}</title>
-	<meta name="description" content="{{ page.description }}">
-	
-	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<!-- Load styles -->
-	<!-- For production, combine all of the stylesheets -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css">
+ <!DOCTYPE html>
+ <html>
+ <head>
+  
+  	<link rel='favicon' type='image/jpg' href='alaa-blog/img/braindump.jpg'/>
+ 	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 	<title> B R A I N || D U M P </title>
+ 	<meta name="description" content="{{ page.description }}">
+ 	
+ 	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+ 	<!-- Load styles -->
+ 	<!-- For production, combine all of the stylesheets -->
+ 	<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css">
+ 	
 	
 	<!-- pull in webfonts -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+<<<<<<< HEAD
 
 
 </head>
@@ -56,3 +58,45 @@
 	
 </body>
 </html>
+=======
+ <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+
+ 
+ 
+ </head>
+  
+ <style>
+	a:link {
+	color: #543A36;
+	text-decoration:none
+	}
+	a:hover {
+	color: #9C9C9C;
+	transition: 1s;
+	}
+	a:visited {
+	color: #543A36;
+	}
+</style>
+ <body>
+  
+ 	<!-- Page content goes inside the container -->
+ 	<!-- In general, you should have only one container per page. -->
+ 	<div class="container">
+ 
+         <p><a href="{{ site.url }}">Home</a></p>
+ 
+         <h1>{{ page.title }}</h1>
+ 		
+ 	
+         {% if page.date %}
+     		<p>{{ page.date | date: "%A, %B %-d, %Y" }}</p>
+         {% endif %}
+ 		
+         {{ content }}
+ 
+ 	</div><!-- end container -->
+ 	
+ </body>
+ </html>
+>>>>>>> 05ee0aa961d4af2b1818118efc01fb80d716e86f

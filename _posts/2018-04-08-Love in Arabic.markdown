@@ -8,13 +8,13 @@ Before the emerge of Islam, poetry was a norm. During this time, one's honor was
 <p>Here's what I found looking for this topic:</p>
 <p>"Love" has 14 different forms in Arabic, ranging from a love that comes from infatuation to love that literally causes one pain. Three of these words describe an unhealthy development of love, so I'm going to explore the first five "normal" stages of love, as per Arabic.
 <br>1- Attraction - al-hawa (الْهَوَى)
-Root word: "ha-w-a" which refers to wind - meaning the attraction that (literally) blows one away. This means it's not serious, but rather abrupt and unstable in nature.</br>
+Root word: "ha-w-a" which refers to wind - meaning the attraction that (literally) blows one away. This means it's not serious, but rather abrupt and unstable in nature.
 <br>2- Attachment - al-'alaqa (الْعَلاقَةُ)
-Root word: "'a-la-qa" - meaning to cling onto, or caught on. This is when the attraction is now attaching to one's heart, and when it develops to deeper feelings.</br>
+Root word: "'a-la-qa" - meaning to cling onto, or caught on. This is when the attraction is now attaching to one's heart, and when it develops to deeper feelings.
 <br>3- Infatuation - al-kalaf (الْكَلَفُ) 
 Root word: “ka-la-fa” - to literally “become red in the face” - which is the stage of love when it starts to affect one’s physical being. It also is the derivative of “ku-le-fa” which is distress or affliction.</br>
 <br>4- Desire - “‘ishq” (الْعِشْقُ) 
-Root word: “u’-sh’” - a nest, meaning love is now nestled into one’s heart like a bird in a nest. It is also the root for “‘a-sh-era,” “to become familiar with,” “‘a-sh-ey” “to become blind.” </br>
+Root word: “u’-sh’” - a nest, meaning love is now nestled into one’s heart like a bird in a nest. It is also the root for “‘a-sh-era,” “to become familiar with,” “‘a-sh-ey” “to become blind.” 
 <br>5- Passion - “sha’af,” “al-’elaj,” or “al-wa’a” (الشّعَفُ / اللَّوْعَةُ / اللعَاج) 
-Root word: “sha-’a-fa” the action of spreading tar of a camel, which the Arabs “believed that the camel experiences a pleasurable slight burning sensation as it is covered by the tar.” This means that this stage of love is defined as a healing stage with pangs of love. </br>
+Root word: “sha-’a-fa” the action of spreading tar of a camel, which the Arabs “believed that the camel experiences a pleasurable slight burning sensation as it is covered by the tar.” This means that this stage of love is defined as a healing stage with pangs of love. 
  
