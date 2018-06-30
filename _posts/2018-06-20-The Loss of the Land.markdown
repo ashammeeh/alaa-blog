@@ -1,8 +1,5 @@
 ---
 title: The Loss of the Land
-
-<%= favicon_tag 'img/favicon.ico' %>
-
 ---
 
 
