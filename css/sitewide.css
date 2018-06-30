@@ -31,7 +31,9 @@ body {
 	font-size: 16px;
 	color: grey;
 	line-height: 1.5em;
-	background-image: url("/alaa-blog/img/background.jpg");}
+	background-image: url("/alaa-blog/img/background.jpg");
+	background-size: auto;
+	background-repeat: no-repeat;}
 		
 		
 
